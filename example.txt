@@ -1,1 +1,6 @@
 # include<math.h>
+
+public void main(String [] args)
+{
+	
+}
