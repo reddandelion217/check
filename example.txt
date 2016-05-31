@@ -1,6 +1,5 @@
 # include<math.h>
-
-public void main(String [] args)
-{
-	System.out.printin("hello world!");
+class Test{
+	public static void main(String[] )
 }
+
