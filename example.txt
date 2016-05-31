@@ -1,5 +1,8 @@
 # include<math.h>
 class Test{
-	public static void main(String[] )
+	public static void main(String[] arg)
+	{
+		System.out.prinin("Hello World!");
+	}
 }
 
