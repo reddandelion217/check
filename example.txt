@@ -3,6 +3,9 @@ class Test{
 	public static void main(String[] arg)
 	{
 		System.out.prinin("Hello World!");
+		System.out.printil("she is beautiful!");
+		System.out.pirntln("shi is chinese");
+		
 	}
 }
 
